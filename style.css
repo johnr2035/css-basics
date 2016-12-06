@@ -23,7 +23,7 @@ h1,h2 {
     font-size: 72px;
     font-family:"Oswald","Helvetica Neue";
     text-align: center;
-    color: #2884C;
+    color: #2884C3;
 }
 
 body {
@@ -35,6 +35,14 @@ body {
 code {
     color: #CE234C;
     background-color: lightgray;
-    class:"snippet"
-    background:; lightgray;
 }
+
+.snippet{ 
+    background-color: lightgray;
+}
+
+#font-practice{
+    font-style: italic;
+    color: green;
+}
+
